@@ -1,21 +1,19 @@
 {
-  "name": "semistandard",
-  "description": "All the goodness of `feross/standard` with semicolons sprinkled on top.",
+  "name": "semifour-standard",
+  "description": "All the goodness of `feross/standard` with semicolons and four-space indent",
   "version": "9.2.1",
   "author": {
-    "email": "flettre@gmail.com",
-    "name": "Dan Flettre",
-    "url": "http://twitter.com/flettre"
+    "name": "Kevin Sullivan"
   },
   "bin": {
-    "semistandard": "./bin/cmd.js"
+    "semifour-standard": "./bin/cmd.js"
   },
   "bugs": {
-    "url": "https://github.com/Flet/semistandard/issues"
+    "url": "https://github.com/kevsul/semifour-standard/issues"
   },
   "dependencies": {
     "eslint": "~3.12.1",
-    "eslint-config-semistandard": "7.0.0",
+    "eslint-config-semifour-standard": "7.0.0",
     "eslint-config-standard": "6.2.1",
     "eslint-config-standard-jsx": "3.2.0",
     "eslint-plugin-promise": "~3.4.0",
@@ -32,7 +30,7 @@
     "tape": "^4.6.3",
     "xtend": "^4.0.0"
   },
-  "homepage": "https://github.com/Flet/semistandard",
+  "homepage": "https://github.com/kevsul/semifour-standard",
   "keywords": [
     "JavaScript Standard Style",
     "bikeshed",
@@ -64,7 +62,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flet/semistandard.git"
+    "url": "https://github.com/kevsul/semifour-standard.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js"
