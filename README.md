@@ -2,9 +2,9 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-### One Semicolon for the Dark Lord on his dark throne
+### Semicolons and wider indents
 
-All the goodness of [feross/standard] with semicolons and four-space indent
+All the goodness of [feross/standard] with semicolons and four-space indents
 
 ## Install
 
@@ -17,7 +17,7 @@ npm install semifour-standard
 Importantly:
 
 - **semicolons**
-- **four-space indent**
+- **four-space indents**
 - Check [feross/standard] for the rest of the rules.
 
 
@@ -126,6 +126,8 @@ $ semifour-standard --verbose | snazzy
 
 See [feross/standard] for more information.
 
+[npm-image]: https://img.shields.io/npm/v/semifour-standard.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/semifour-standard
+[downloads-image]: https://img.shields.io/npm/dm/semifour-standard.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/semifour-standard
 [feross/standard]: https://github.com/feross/standard
