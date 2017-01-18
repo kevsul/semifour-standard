@@ -41,6 +41,11 @@ Error: Use JavaScript Semifour-Standard Style
   lib/torrent.js:950:11: Expected '===' and instead saw '=='.
 ```
 
+### IDE Integration
+[Use with IntelliJ IDEA/WebStorm][ide]
+
+[ide]: https://github.com/kevsul/semifour-standard/blob/master/docs/IDE.md
+
 ### What you might do if you're clever
 
 1. Add it to `package.json`
