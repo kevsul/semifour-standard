@@ -7,8 +7,8 @@
  
 ##2. Install `eslint` and `eslint-config-semifour-standard`
  - Run these 2 commands:
- `npm install --global eslint eslint-config-standard eslint-config-standard-jsx eslint-plugin-promise eslint-plugin-react eslint-plugin-standard eslint-config-semifour-standard`
- `echo '{"extends": ["semifour-standard", "standard-jsx"]}' > ~/.eslintrc`
+   - `npm install --global eslint eslint-config-standard eslint-config-standard-jsx eslint-plugin-promise eslint-plugin-react eslint-plugin-standard eslint-config-semifour-standard`
+   - `echo '{"extends": ["semifour-standard", "standard-jsx"]}' > ~/.eslintrc`
  
 ##3. Set IDE preferences
  - Restart the IDE and open a Settings/Preferences screen
