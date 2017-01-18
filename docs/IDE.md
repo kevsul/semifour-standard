@@ -2,7 +2,7 @@
 
 ##1. Set the code style
  - Find your IDE config dir (Usually `~/Library/Preferences/IntelliJIdea14`. [Or check here][webstorm-2]).
- - Create the `config_dir/codestyles` dir if it's not already there.
+ - Create the `codestyles` dir if it's not already there.
  - Copy the [SemifourStandard][semifour-standard-cs] file into the `codestyles` dir.
  
 ##2. Install `eslint` and `eslint-config-semifour-standard`
